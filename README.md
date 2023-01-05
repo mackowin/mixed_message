@@ -1,4 +1,4 @@
-# :ear: Mixed Message Generator Program #
+# :slot_machine: Mixed Message Generator Program #
 CodeCademy Project: Randomize message output with JavaScript
 
 ## Table of Contents ##
